@@ -5,8 +5,26 @@
 // Description: Coding 101 50: Image Manipulation with PHP
 // last Modified: 05-23-2019
 // Meta_data_for_Youtube: <iframe width="560" height="315" src="https://www.youtube.com/embed/CEcHBeGns6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-// Source: https://www.youtube.com/watch?v=CEcHBeGns6I&list=PLTmR6HsT7006WXLVezBEm6Me_EdXTDES8&index=49&t=0s
+// Source: https://www.youtube.com/watch?v=CEcHBeGns6I
 // 
+// filename: coding101_50_Image_Manipulation_with_PHP.php
+
+// Copyright (C) 2015 Patrick Delahanty and aka Asher Simcha (C) 2019
+// This library is free software; you can redistribute it and/or modify it under the
+// terms of the The 3-Clause BSD License as published by the
+// Open Source Initiative; version 3
+
+// This library is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// The 3-Clause BSD License for more details.
+
+// You should have received a copy of The 3-Clause BSD License
+// see the files The 3-Clause BSD License.txt respectively.  If not, see
+// <https://opensource.org/licenses/BSD-3-Clause/>.
+
+
+
 // Additional Notes: The original code from Coding 101 is the same
 // Additional Notes: Asher Simcha added so that it will work with both Windows and Linux Servers.
 // also changed the GET to include errors
